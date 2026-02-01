@@ -1,5 +1,4 @@
-import { COOKIE_NAME } from "@shared/const";
-import { getSessionCookieOptions } from "./_core/cookies";
+import { getSessionCookieOptions, COOKIE_NAME } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
 import { publicProcedure, protectedProcedure, router } from "./_core/trpc";
 import { z } from "zod";
@@ -85,6 +84,17 @@ export const appRouter = router({
     getAll: publicProcedure.query(async () => {
       return await db.getAllTags();
     }),
+  }),
+
+  // ============================================================================
+  // ADMIN ROUTER
+  // ============================================================================
+  admin: router({
+    importBooks: protectedProcedure
+      .input(z.array(z.record(z.any())))
+      .mutation(async ({ input }) => {
+        return await db.importBooksFromExcel(input);
+      }),
   }),
 });
 
