@@ -8,6 +8,7 @@ import { appRouter } from "../routers";
 import { createContext } from "./context";
 import { serveStatic, setupVite } from "./vite";
 
+
 function isPortAvailable(port: number): Promise<boolean> {
   return new Promise(resolve => {
     const server = net.createServer();
@@ -35,6 +36,31 @@ async function startServer() {
   app.use(express.urlencoded({ limit: "50mb", extended: true }));
   // OAuth callback under /api/oauth/callback
   registerOAuthRoutes(app);
+  
+  // Import endpoint
+  app.post("/api/import-books", async (req, res) => {
+    try {
+      const { books, adminKey } = req.body;
+      const ADMIN_KEY = process.env.ADMIN_IMPORT_KEY || "salon-knjige-admin-2026";
+      
+      if (!adminKey || adminKey !== ADMIN_KEY) {
+        return res.status(401).json({ error: "Invalid admin key" });
+      }
+      
+      if (!Array.isArray(books)) {
+        return res.status(400).json({ error: "Books must be an array" });
+      }
+      
+      const { importBooksFromExcel } = await import("../db");
+      const result = await importBooksFromExcel(books);
+      
+      res.json(result);
+    } catch (error) {
+      console.error("Import error:", error);
+      res.status(500).json({ error: String(error) });
+    }
+  });
+  
   // tRPC API
   app.use(
     "/api/trpc",
