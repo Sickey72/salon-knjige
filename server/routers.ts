@@ -90,10 +90,20 @@ export const appRouter = router({
   // ADMIN ROUTER
   // ============================================================================
   admin: router({
-    importBooks: protectedProcedure
-      .input(z.array(z.record(z.any())))
+    importBooks: publicProcedure
+      .input(z.object({
+        books: z.array(z.record(z.any())),
+        adminKey: z.string().optional(),
+      }))
       .mutation(async ({ input }) => {
-        return await db.importBooksFromExcel(input);
+        // Sigurnosna šifra za import (trebate je promijeniti u produkciji)
+        const ADMIN_KEY = process.env.ADMIN_IMPORT_KEY || "salon-knjige-admin-2026";
+        
+        if (!input.adminKey || input.adminKey !== ADMIN_KEY) {
+          throw new Error("Invalid admin key");
+        }
+        
+        return await db.importBooksFromExcel(input.books);
       }),
   }),
 });
