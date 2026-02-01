@@ -1,0 +1,4212 @@
+[
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Песмарица Словарица",
+    "podnaslov": null,
+    "Pisac": "Гордана Пешић",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Башта Машта",
+    "podnaslov": null,
+    "Pisac": "Нада Кљајић",
+    "Kolicina": 135,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Свадба на ливади",
+    "podnaslov": null,
+    "Pisac": "Перо Солар",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Распевана Азбука",
+    "podnaslov": null,
+    "Pisac": "Слободан Стојиновић",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Азбучни воз",
+    "podnaslov": null,
+    "Pisac": "Тодор Бјелкић",
+    "Kolicina": 120,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-053-9",
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мравица и свитац",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Без по муке сред азбуке",
+    "podnaslov": null,
+    "Pisac": "Тодор Бјелкић",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Срећица",
+    "podnaslov": null,
+    "Pisac": "Драгица Грбић",
+    "Kolicina": 0,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Имам једно питање",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Бајковите приче",
+    "podnaslov": null,
+    "Pisac": "Оливера Крунић",
+    "Kolicina": 45,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Дечја гимнастика",
+    "podnaslov": null,
+    "Pisac": "Милорад Живановић",
+    "Kolicina": 140,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Брзина",
+    "podnaslov": null,
+    "Pisac": "Џенифер Кристифор",
+    "Kolicina": 680,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Два венца осаме",
+    "podnaslov": null,
+    "Pisac": "Добривој Вујин",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-033-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Неке важније ствари",
+    "podnaslov": null,
+    "Pisac": "Виолета Јовић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Босонога принцеза",
+    "podnaslov": null,
+    "Pisac": "Јадранка Ћулум",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Бројаница",
+    "podnaslov": null,
+    "Pisac": "Зорица Лукић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Славуј у ружичњаку",
+    "podnaslov": null,
+    "Pisac": "Горан Деспотовић",
+    "Kolicina": 20,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Песме са кућног прага",
+    "podnaslov": null,
+    "Pisac": "Тоде Николетић",
+    "Kolicina": 25,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сјај вукових драгуља",
+    "podnaslov": null,
+    "Pisac": "Сретен Голубовић",
+    "Kolicina": 105,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Најважнија је љубав",
+    "podnaslov": null,
+    "Pisac": "Душан Гладић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Тина Балерина",
+    "podnaslov": null,
+    "Pisac": "Винка Вујанић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Поправни из детињства",
+    "podnaslov": null,
+    "Pisac": "Горан Боричић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Печурке су деца кише",
+    "podnaslov": null,
+    "Pisac": "Вера Колаковић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "За твоју срећу",
+    "podnaslov": null,
+    "Pisac": "Веселинка Стојковић",
+    "Kolicina": 0,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Дружина за међупланетарни лет",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 8,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Писмо у трави",
+    "podnaslov": null,
+    "Pisac": "Радивој Прокопљевић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Прваци породице",
+    "podnaslov": null,
+    "Pisac": "Слободан Станишић",
+    "Kolicina": 300,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Досетљиве Доситејке",
+    "podnaslov": null,
+    "Pisac": "Ђура Шефер",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Боље вас нашли",
+    "podnaslov": null,
+    "Pisac": "Градимир Стојковић и Д Ћулафић",
+    "Kolicina": 27,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Крилатице и људи",
+    "podnaslov": null,
+    "Pisac": "Тодор Бјелкић",
+    "Kolicina": 50,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Књига која се смеје",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Доброта има име",
+    "podnaslov": null,
+    "Pisac": "Бранко Новаковић",
+    "Kolicina": 20,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Српске славе у причама за децу",
+    "podnaslov": null,
+    "Pisac": "Славка Грујичић",
+    "Kolicina": 645,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Приче из Причевића",
+    "podnaslov": null,
+    "Pisac": "Мирјана Рајковић Лукић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-003-4",
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Младолике приче",
+    "podnaslov": null,
+    "Pisac": "Милорад Радуновић",
+    "Kolicina": 200,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Отвори шкољку загонетку",
+    "podnaslov": null,
+    "Pisac": "Милорад Радуновић",
+    "Kolicina": 200,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-037-9",
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Међународни бегунац",
+    "podnaslov": null,
+    "Pisac": "Горан Деспотовић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Трагом Сунца",
+    "podnaslov": null,
+    "Pisac": "Милорад Радуновић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-017-1",
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Путовање у Декаленд",
+    "podnaslov": null,
+    "Pisac": "Оливера Јелкић",
+    "Kolicina": 0,
+    "Cena": 100.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Велики Мики",
+    "podnaslov": null,
+    "Pisac": "Оливера Јелкић",
+    "Kolicina": 0,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Хиљаду ждралова",
+    "podnaslov": null,
+    "Pisac": "Оливера Јелкић",
+    "Kolicina": 64,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Нешто треће",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Здравице девет Југовића",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Доситејев грех",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Шта сам друго могао него",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Тако жубори река",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 245,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пужева срма",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 5,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Месечев клас",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 100,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Букет вечерњих љубичица",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 0,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Повратак Мостару",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Ленка Дунђерска",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мале бајке",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Шаренило душе (приче)",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пријатељство (приче)",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-036-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Кнез Иво од Семберије (роман)",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 0,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Ружа Тодорова (роман)",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 0,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Интиме Петра Кочића (есеј)",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 148,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Одгонетнута мистерија пчеле и човека лепенског вира",
+    "podnaslov": null,
+    "Pisac": "Велизар Илић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Теорија медицинске хипнозе",
+    "podnaslov": null,
+    "Pisac": "Станимир Б. Косанић",
+    "Kolicina": 30,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Непознати Његош",
+    "podnaslov": null,
+    "Pisac": "Марија Ковачевић",
+    "Kolicina": 0,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-007-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Кроз времена и књиге",
+    "podnaslov": null,
+    "Pisac": "др Мићо Цвијетић",
+    "Kolicina": 200,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Јасеновац",
+    "podnaslov": null,
+    "Pisac": "Срба Живановић",
+    "Kolicina": 0,
+    "Cena": 1500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Кнез Иво од Семберије",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 1,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Крст Проте Милутина",
+    "podnaslov": null,
+    "Pisac": "Божидар Кљајевић",
+    "Kolicina": 5,
+    "Cena": 800.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Приче које морају бити испричане",
+    "podnaslov": null,
+    "Pisac": "Божидар Кљајевић",
+    "Kolicina": 50,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Племе Никшић у Србији",
+    "podnaslov": null,
+    "Pisac": "Божидар Кљајевић",
+    "Kolicina": 200,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Кораци по живом",
+    "podnaslov": null,
+    "Pisac": "Тома Арсеновић",
+    "Kolicina": 300,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-031-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Село којег више нема",
+    "podnaslov": null,
+    "Pisac": "Марко Лека",
+    "Kolicina": 96,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Слике из рата",
+    "podnaslov": null,
+    "Pisac": "Љиљана Ерцег-Лотина",
+    "Kolicina": 200,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Венац од Маслачка",
+    "podnaslov": null,
+    "Pisac": "Јелисавета Лела Медић",
+    "Kolicina": 50,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пут у никуда",
+    "podnaslov": null,
+    "Pisac": "Нена Хофман",
+    "Kolicina": 20,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-006-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сремски Краљ Драгутин",
+    "podnaslov": null,
+    "Pisac": "Радмила Васиљенић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Легенде о Деспоту Стефану",
+    "podnaslov": null,
+    "Pisac": "Радмила Васиљевић",
+    "Kolicina": 0,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сан напукле јаве",
+    "podnaslov": null,
+    "Pisac": "Анђелко Заблаћански",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-038-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пијано праскозорје",
+    "podnaslov": null,
+    "Pisac": "Анђелко Заблаћански",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мисао ми пада горе",
+    "podnaslov": null,
+    "Pisac": "Милица Зарубица",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Век у Рaтовима и у љубави",
+    "podnaslov": null,
+    "Pisac": "Драган Колунџија",
+    "Kolicina": 5,
+    "Cena": 800.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сунчев цвет који пева",
+    "podnaslov": null,
+    "Pisac": "Радослав Пајковић",
+    "Kolicina": 500,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Последњи Ђерам",
+    "podnaslov": null,
+    "Pisac": "Радивој Прокопљевић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Од изворишта ушћу",
+    "podnaslov": null,
+    "Pisac": "Јован Ићитовић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Живим на другој страни Сунца",
+    "podnaslov": null,
+    "Pisac": "Мира Видаковић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Плава ружа заборава",
+    "podnaslov": null,
+    "Pisac": "Нада Аничић Црљеница",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Причин Белог Анђела",
+    "podnaslov": null,
+    "Pisac": "Нада Аничић Црљеница",
+    "Kolicina": 5,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Трагом нашег живота",
+    "podnaslov": null,
+    "Pisac": "Драган Драгојловић",
+    "Kolicina": 150,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Седам минђуша",
+    "podnaslov": null,
+    "Pisac": "Јасна Стефановић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Ведри Утопљеник",
+    "podnaslov": null,
+    "Pisac": "Слободан Марковић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "У врту господњем",
+    "podnaslov": null,
+    "Pisac": "Зорица Рајкова Лукић",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Теби светлости мојих дана",
+    "podnaslov": null,
+    "Pisac": "Лепосав Матић",
+    "Kolicina": 5,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Смешне песме",
+    "podnaslov": null,
+    "Pisac": "Анђелко Ердељанин",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Косовски божури",
+    "podnaslov": null,
+    "Pisac": "Драгољуб Филиповић",
+    "Kolicina": 200,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "111 Сонета о Теби",
+    "podnaslov": null,
+    "Pisac": "Брамар",
+    "Kolicina": 297,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "Сонети посвећени Патријарху Павлу и свом народу"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Књига која се смеје",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 0,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Господин Пан Панонски",
+    "podnaslov": null,
+    "Pisac": "Драган Томашевић",
+    "Kolicina": 0,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Руже и ждралови",
+    "podnaslov": null,
+    "Pisac": "Даница Панић",
+    "Kolicina": 150,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Nemezis",
+    "podnaslov": null,
+    "Pisac": "Radoslav Slavnić",
+    "Kolicina": 15,
+    "Cena": 600.0,
+    "ISBN": "978-86-6261-002-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сумрак над Мостаром",
+    "podnaslov": null,
+    "Pisac": "Раде Ђорђевић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Живот припада онима који не моле",
+    "podnaslov": null,
+    "Pisac": "Светлана Велимировић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Ми и они",
+    "podnaslov": null,
+    "Pisac": "Светлана Велимировић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Љубав је слепа",
+    "podnaslov": null,
+    "Pisac": "Светлана Велимировић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Реч о речи",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 57,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Камен са Динаре",
+    "podnaslov": null,
+    "Pisac": "Миле Медић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Завештање језика",
+    "podnaslov": null,
+    "Pisac": "Миле Медић",
+    "Kolicina": 100,
+    "Cena": 100.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Завештање књиге и језика",
+    "podnaslov": null,
+    "Pisac": "Миле Медић",
+    "Kolicina": 100,
+    "Cena": 100.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Завештање крсне славе",
+    "podnaslov": null,
+    "Pisac": "Миле Медић",
+    "Kolicina": 100,
+    "Cena": 100.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Последња сирмијумска изложба",
+    "podnaslov": null,
+    "Pisac": "Ђорђе Домазет",
+    "Kolicina": 25,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Жута Кала",
+    "podnaslov": null,
+    "Pisac": "Ђорђе Домазет",
+    "Kolicina": 30,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Зелено срце",
+    "podnaslov": null,
+    "Pisac": "Ђорђе Домазет",
+    "Kolicina": 20,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Багремова сенка",
+    "podnaslov": null,
+    "Pisac": "Маринко Кукић",
+    "Kolicina": 20,
+    "Cena": 800.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Знаменити Румљани II",
+    "podnaslov": null,
+    "Pisac": "Ђорђе Арсенић",
+    "Kolicina": 483,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Госпо Нојвил",
+    "podnaslov": null,
+    "Pisac": "Ненад Ћорилић",
+    "Kolicina": 0,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Потрага за Аурором",
+    "podnaslov": null,
+    "Pisac": "Зорица Милошевић Цинцарка",
+    "Kolicina": 5,
+    "Cena": 800.0,
+    "ISBN": "978-86-6261-026-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Повратак у самоћу",
+    "podnaslov": null,
+    "Pisac": "Зоран Славић",
+    "Kolicina": 200,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "На обали тамно плавог језера",
+    "podnaslov": null,
+    "Pisac": "Стеван Вукајловић",
+    "Kolicina": 300,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Краљица просјака",
+    "podnaslov": null,
+    "Pisac": "Стеван Матић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Небески гладијатор",
+    "podnaslov": null,
+    "Pisac": "Анђелка Радовановић",
+    "Kolicina": 20,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мушкарчина",
+    "podnaslov": null,
+    "Pisac": "Славица Шовш",
+    "Kolicina": 500,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "У златним маказама",
+    "podnaslov": null,
+    "Pisac": "Славица Шовш",
+    "Kolicina": 50,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Напукла кућа",
+    "podnaslov": null,
+    "Pisac": "Божидар Мандић",
+    "Kolicina": 20,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Немање",
+    "podnaslov": null,
+    "Pisac": "Виолета Јовић",
+    "Kolicina": 20,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мистична мочвара",
+    "podnaslov": null,
+    "Pisac": "Дејан Маринковић",
+    "Kolicina": 190,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Птица селица",
+    "podnaslov": null,
+    "Pisac": "Ирена Милошевић",
+    "Kolicina": 200,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Говор душе",
+    "podnaslov": null,
+    "Pisac": "Светлана Радојковић Михајловић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "После сна",
+    "podnaslov": null,
+    "Pisac": "Светлана Радојковић Михајловић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Живот је маратон",
+    "podnaslov": null,
+    "Pisac": "Светлана Радојковић Михајловић",
+    "Kolicina": 200,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Дракулина кћи",
+    "podnaslov": null,
+    "Pisac": "Ана Вукоман",
+    "Kolicina": 61,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-001-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Тајна крви",
+    "podnaslov": null,
+    "Pisac": "Ана Вукоман",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-020-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Непоменик",
+    "podnaslov": null,
+    "Pisac": "Ана Вукоман",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Приче наших дана",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Живот уз длаку",
+    "podnaslov": null,
+    "Pisac": "Тодор Бјелкић",
+    "Kolicina": 5,
+    "Cena": 800.0,
+    "ISBN": "978-86-6261-055-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Диптих Адамовог биографа",
+    "podnaslov": null,
+    "Pisac": "Миро Радмиловић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Три речи",
+    "podnaslov": null,
+    "Pisac": "Димитрије Вукашиновић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "роман"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Острво Спаса",
+    "podnaslov": null,
+    "Pisac": "Микица Петронијевић",
+    "Kolicina": 400,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-086-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "На дугом путовању до пакла",
+    "podnaslov": null,
+    "Pisac": "Ђорђе Беочанин",
+    "Kolicina": 110,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Изазови",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 100,
+    "Cena": 600.0,
+    "ISBN": "978-86-6261-071-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Приче из завичаја",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 100,
+    "Cena": 600.0,
+    "ISBN": "978-86-6261-074-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Од Пушкина до Капустина",
+    "podnaslov": null,
+    "Pisac": "Анђелко Заблаћански",
+    "Kolicina": 200,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-097-3",
+    "Opis": "Антологија руске поезије"
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Срце што у срцу бије",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-004-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "212+1 и кусур",
+    "podnaslov": null,
+    "Pisac": "Димитрије Вукашиновић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-005-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Крхотине од мене",
+    "podnaslov": null,
+    "Pisac": "Јасна (Загреб)",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-008-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Живот је чудо",
+    "podnaslov": null,
+    "Pisac": "Слободан Савић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-009-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мирис михољског лета",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-011-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Недоречено",
+    "podnaslov": null,
+    "Pisac": "Живан",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-012-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Изгубљени у вртлогу живота",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-013-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Невидљиви а ...",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-014-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Једна животна прича",
+    "podnaslov": null,
+    "Pisac": "Абдул Кадел",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-015-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Позне песме",
+    "podnaslov": null,
+    "Pisac": "Гвозден Радовановић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-016-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": "Предраг Говедаревић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-018-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": "Прота Драгиша",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-019-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Траг у пјесми",
+    "podnaslov": null,
+    "Pisac": "Милош Тодоровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-021-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Свезналице игралице",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-022-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Биће боље",
+    "podnaslov": null,
+    "Pisac": "Живан Г Петровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-023-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": "Мија Шабац",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-024-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Букет чичака",
+    "podnaslov": null,
+    "Pisac": "Татјана Поповић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-028-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Бунар",
+    "podnaslov": null,
+    "Pisac": "Жељко Пантелић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-029-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пјесме у славу избављења",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-032-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Вогањ",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-035-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Потражи погледом небо",
+    "podnaslov": null,
+    "Pisac": "Милена Јан Марић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-039-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Башта да проради машта",
+    "podnaslov": null,
+    "Pisac": "Неда Кесар",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-040-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Дјеца љубави",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-041-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Есеј о Татјани",
+    "podnaslov": null,
+    "Pisac": "Слободан Продановић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-042-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Златни споменар матураната петровачке гимназије",
+    "podnaslov": "1952-1962",
+    "Pisac": "Зорка Кнежевић",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-043-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": "Јаника Печи",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-044-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": "Милорад Тодоровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-045-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "За жену која се воли",
+    "podnaslov": null,
+    "Pisac": "Радивој Бунић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-047-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "У мојим песмама станује школа",
+    "podnaslov": null,
+    "Pisac": "Гордана Шашинац",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-048-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-049-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-050-?",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Фрушкогорје",
+    "podnaslov": null,
+    "Pisac": "Чедомир Радуловић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-051-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Небеске тајне",
+    "podnaslov": null,
+    "Pisac": "Радивој Прокопљевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-052-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Миром мирише сремска ????",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-054-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Наших 15 година",
+    "podnaslov": null,
+    "Pisac": "Крајишници с Фрушке Горе",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-056-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Господарица времена",
+    "podnaslov": null,
+    "Pisac": "Маријана Грујић Мишић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-057-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Облачић сјаја у мимоходу",
+    "podnaslov": null,
+    "Pisac": "Јасмина Бакрачић Јовановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-058-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Господа из каљавог шора",
+    "podnaslov": null,
+    "Pisac": "Радивоје Прокопљевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-059-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Шарени буквар",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-060-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Срце срцу пише",
+    "podnaslov": null,
+    "Pisac": "Матеја Савић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-061-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Лихнида",
+    "podnaslov": null,
+    "Pisac": "Ана Вукоман",
+    "Kolicina": 100,
+    "Cena": 800.0,
+    "ISBN": "978-86-6261-062-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сен искона",
+    "podnaslov": null,
+    "Pisac": "Ана Вукоман",
+    "Kolicina": 100,
+    "Cena": 800.0,
+    "ISBN": "978-86-6261-063-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Господарица времена",
+    "podnaslov": null,
+    "Pisac": "Мирјана Грујић Мишић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-064-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Разум нека суди",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-065-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Неусахли ђерам",
+    "podnaslov": null,
+    "Pisac": "књижевна заједница",
+    "Kolicina": 50,
+    "Cena": null,
+    "ISBN": "978-86-6261-066-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Sveznadar",
+    "podnaslov": null,
+    "Pisac": "Jasmina Bakračić Jovanović",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-067-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Христојављење",
+    "podnaslov": null,
+    "Pisac": "Нађа Бранков",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-068-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Тражио сам изазове",
+    "podnaslov": null,
+    "Pisac": "Милутин живановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-069-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Породична сага",
+    "podnaslov": null,
+    "Pisac": "Љиљана Санадровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-070-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Фрушкогорје спи",
+    "podnaslov": null,
+    "Pisac": "Чедомир Јованов Радуловић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-072-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Посланик љубави",
+    "podnaslov": null,
+    "Pisac": "Слободан Васић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-073-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сремски случајеви",
+    "podnaslov": null,
+    "Pisac": "књижевна заједница",
+    "Kolicina": 50,
+    "Cena": null,
+    "ISBN": "978-86-6261-075-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Бесконачност на длану",
+    "podnaslov": null,
+    "Pisac": "Звездана Крстић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-076-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Панорама сремског хаику песништва на почетку 21. века",
+    "podnaslov": null,
+    "Pisac": "Јаника Печи",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-077-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Стефан Немања",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": "978-86-6261-078-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Неки други фрагменти живота мог",
+    "podnaslov": null,
+    "Pisac": "Слободан Станојковић Нишки",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-079-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Чаробњак",
+    "podnaslov": null,
+    "Pisac": "Слободан Станојковић Нишки",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-080-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Још мало до бескраја",
+    "podnaslov": null,
+    "Pisac": "Мира Ђурић Бркић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-081-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Изабрана дела",
+    "podnaslov": null,
+    "Pisac": "Радослав Славнић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-082-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Шалим се, стварно је тако",
+    "podnaslov": null,
+    "Pisac": "Љубомир Здравковић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-083-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Шафранов цвет",
+    "podnaslov": null,
+    "Pisac": "Драган Томашевић",
+    "Kolicina": 300,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-084-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": null,
+    "podnaslov": null,
+    "Pisac": "Слободан",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-085-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сванула је зора",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 5,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-087-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Тезга као живот",
+    "podnaslov": null,
+    "Pisac": "Микица Петронијевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-088-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Иришки ноктурно",
+    "podnaslov": null,
+    "Pisac": "Зоран Митић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-089-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Дамаром ти пишем",
+    "podnaslov": null,
+    "Pisac": "Јаника Печи",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-090-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Збогом завичају",
+    "podnaslov": null,
+    "Pisac": "Јово Станишић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-091-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Острво спаса",
+    "podnaslov": null,
+    "Pisac": "Микица Петронијевић",
+    "Kolicina": 5,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-092-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Радозналци",
+    "podnaslov": null,
+    "Pisac": "Драгица Додеровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-094-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Фрушкогорје зри",
+    "podnaslov": null,
+    "Pisac": "Чедомир Радуловић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-096-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Зашто да умрем стар",
+    "podnaslov": null,
+    "Pisac": "Зоран Митић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-099-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Е да ...",
+    "podnaslov": null,
+    "Pisac": "књижевна заједница",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-100-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Зелени кутак",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-101-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Grlom kroz kamilicu",
+    "podnaslov": null,
+    "Pisac": "Vlada Kanić",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-102-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сага о Руми",
+    "podnaslov": null,
+    "Pisac": "Милутин Живановић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": "978-86-6261-103-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Кроћење мисли",
+    "podnaslov": null,
+    "Pisac": "Слободан Васић",
+    "Kolicina": 5,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-104-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "За тебе",
+    "podnaslov": null,
+    "Pisac": "Александар Цигановић",
+    "Kolicina": 5,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-105-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Tragači istine",
+    "podnaslov": "priče iz taksi vozila",
+    "Pisac": "Velibor Momirović",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-108-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Цртице успут",
+    "podnaslov": null,
+    "Pisac": "Катарина Панић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-107-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Вечно горје",
+    "podnaslov": "Фрушкогорје",
+    "Pisac": "Чедомир Јованов - Радуловић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-109-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Крст времена",
+    "podnaslov": null,
+    "Pisac": "Драгана Зубац",
+    "Kolicina": 27,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Цветна башта",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 300,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-110-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Vidimo se u hronici…",
+    "podnaslov": null,
+    "Pisac": "Saša Wernner Ristović",
+    "Kolicina": 4,
+    "Cena": 1200.0,
+    "ISBN": "978-86-6261-111-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Raskrsnica izgubljenog puta",
+    "podnaslov": null,
+    "Pisac": "Sandra Subotić",
+    "Kolicina": 250,
+    "Cena": 500.0,
+    "ISBN": "978-86-7564-498-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Мали дечији буквар веронауке",
+    "podnaslov": null,
+    "Pisac": "Зорица Салијевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-193-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Покољења дјела суде",
+    "podnaslov": null,
+    "Pisac": "Марија Ковачевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-158-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Доба позних хладова",
+    "podnaslov": null,
+    "Pisac": "Томислав Арсеновић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-301-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Уткао сам себе",
+    "podnaslov": null,
+    "Pisac": "Андрија Беднарик",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-354-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "У недоумици срца",
+    "podnaslov": null,
+    "Pisac": "Марица Лукић",
+    "Kolicina": 150,
+    "Cena": 200.0,
+    "ISBN": "978-86-7564-506-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Смрт Смаил-Аге Ченгића",
+    "podnaslov": "Враћање епа Његошу - Препјев",
+    "Pisac": "Доротеј",
+    "Kolicina": 100,
+    "Cena": 200.0,
+    "ISBN": "978-86-7564-433-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Харфа Сиона",
+    "podnaslov": "путописне и друге приче",
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Чувари осмеха",
+    "podnaslov": null,
+    "Pisac": "литерарна секција Пећинци",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-046-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Са сунцем у коси",
+    "podnaslov": null,
+    "Pisac": "Буда Стојковић",
+    "Kolicina": 5,
+    "Cena": 1500.0,
+    "ISBN": "978-86-7564-126-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пусти ме да полетим",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Ожиљци",
+    "podnaslov": null,
+    "Pisac": "Димитрије Вукашиновић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Чаролије",
+    "podnaslov": null,
+    "Pisac": "Вида Лукић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пјесме изгнанице",
+    "podnaslov": null,
+    "Pisac": "Давор Миличевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-028-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Лирски медаљони",
+    "podnaslov": null,
+    "Pisac": "Сања Јевтић-Живанчевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Пјесме за дјецу о лисици, о зецу и заљубљеном мјесецу",
+    "podnaslov": null,
+    "Pisac": "Драго Николић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Анунаки са Нибуре",
+    "podnaslov": null,
+    "Pisac": "Драган Шовић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-573-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Учење Корана о Исусу Христу",
+    "podnaslov": null,
+    "Pisac": "Срђан Симић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Придите чеда",
+    "podnaslov": null,
+    "Pisac": "Лазар Вукојев",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Богословско-катихетски институт при Богословском факултету СПЦ у Београду 1990-2003 (2007)",
+    "podnaslov": null,
+    "Pisac": "Драгомир Сандо",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7405-140-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Говори Господ",
+    "podnaslov": null,
+    "Pisac": "Др Мирко Ђ. Томасовић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-902513-2-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Огањ у срцу разгорио",
+    "podnaslov": null,
+    "Pisac": "Протојереј-ставрофор Василије Томић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Свештеници својој пастви",
+    "podnaslov": null,
+    "Pisac": "Епископ канадски Г. Георгије",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Роман о Србима",
+    "podnaslov": null,
+    "Pisac": "Мићо Јелић Грновић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-227-Х",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Родослов Горња Трепча",
+    "podnaslov": null,
+    "Pisac": "Милорад-Мика Гојковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-915801-0-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Колевка здравства у Србији",
+    "podnaslov": "књига друга",
+    "Pisac": "Драган Ивановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-289-Х",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Протојереј Василије В. Зјенковски",
+    "podnaslov": null,
+    "Pisac": "Протонамесник Драгомир Сандо",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Сунцокрет у панталонама",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-039-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Цар Буквар",
+    "podnaslov": null,
+    "Pisac": "Драгиша Пењин",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "40 година постојања и трајања Збора угоститељских и туристичких радника Србије 1969-2009",
+    "podnaslov": null,
+    "Pisac": "Радомир Раде Милановић, Петар Кнежевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-554-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Шематизам Епархије канадске 1983-2003",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Поеме",
+    "podnaslov": null,
+    "Pisac": "Радослав Пајковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-220-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Malteški golub lepota i elegancija",
+    "podnaslov": "knjiga četvrta",
+    "Pisac": "Radovan Milovančev",
+    "Kolicina": 5,
+    "Cena": 200.0,
+    "ISBN": "978-86-7846-021-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "U zemlji Luda",
+    "podnaslov": null,
+    "Pisac": "Ljiljana Jerotić",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-452-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Velike vatre bare Jaga",
+    "podnaslov": null,
+    "Pisac": "Mirjana Marković",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-488-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Inđija",
+    "podnaslov": null,
+    "Pisac": "Anton N. Lukić",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-043-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Zoran Radmilović",
+    "podnaslov": null,
+    "Pisac": null,
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Рад на себи",
+    "podnaslov": null,
+    "Pisac": "Марко А. Марковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-114-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Песме о песмама",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 200,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-115-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": null,
+    "Naziv dela": "Jer znala je mama mene će skrckati levi elementi",
+    "podnaslov": "nadrealističko-dadaistička tragedija jedne rok generacije",
+    "Pisac": "Иван Глишић",
+    "Kolicina": 50,
+    "Cena": 1000.0,
+    "ISBN": "978-86-6261-119-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Баштина",
+    "Naziv dela": "Благородне душе 1",
+    "podnaslov": null,
+    "Pisac": "Душан Познановић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Баштина",
+    "Naziv dela": "Благородне душе 2",
+    "podnaslov": null,
+    "Pisac": "Душан Познановић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Послушања",
+    "podnaslov": null,
+    "Pisac": "Матија Бећковић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Саслушања",
+    "podnaslov": null,
+    "Pisac": "Матија Бећковић",
+    "Kolicina": 100,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Сизифов труд",
+    "podnaslov": null,
+    "Pisac": "Драган Недељковић",
+    "Kolicina": 83,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Научите пјесан",
+    "podnaslov": null,
+    "Pisac": "Драган Недељковић",
+    "Kolicina": 72,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Врлетна стаза преображења",
+    "podnaslov": null,
+    "Pisac": "Драган Недељковић",
+    "Kolicina": 0,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Линија магле",
+    "podnaslov": null,
+    "Pisac": "Стева Раичковић",
+    "Kolicina": 34,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Слова и беседе",
+    "podnaslov": null,
+    "Pisac": "Стеван Раичковић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Уметност и зло",
+    "podnaslov": null,
+    "Pisac": "Предраг Драгић Кијук",
+    "Kolicina": 0,
+    "Cena": 800.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Еристички есеји",
+    "podnaslov": null,
+    "Pisac": "Предраг Драгић Кијук",
+    "Kolicina": 0,
+    "Cena": 800.0,
+    "ISBN": "978-86-7564-431-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Беседници",
+    "Naziv dela": "Реч по реч",
+    "podnaslov": null,
+    "Pisac": "Слободан Радовић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Цветници",
+    "Naziv dela": "Да сабљама земљу дијелимо",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 90,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": "За децу, народне епске песме"
+  },
+  {
+    "Biblioteka": "Цветници",
+    "Naziv dela": "Међу јавом и мед сном",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 100,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": "Антологија српске поезије"
+  },
+  {
+    "Biblioteka": "Цветници",
+    "Naziv dela": "С оне стране дуге (антологија)",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 77,
+    "Cena": 1500.0,
+    "ISBN": null,
+    "Opis": "Антологија поезије за децу"
+  },
+  {
+    "Biblioteka": "Цветници",
+    "Naziv dela": "Кад срце засветлуца (антологија)",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 44,
+    "Cena": 1500.0,
+    "ISBN": null,
+    "Opis": "Антологија поезије за децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Празник воћа и поврћа",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 376,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Птице у грудима",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 46,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Баштовите песме",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 255,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Јутро у мравињаку",
+    "podnaslov": null,
+    "Pisac": "Гордана Шарић",
+    "Kolicina": 28,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Ластино гнездо",
+    "podnaslov": null,
+    "Pisac": "Селимир Милосављевић",
+    "Kolicina": 202,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Књига мог живота",
+    "podnaslov": null,
+    "Pisac": "Душко Трифуновић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Празник у пољу",
+    "podnaslov": null,
+    "Pisac": "Нада Симић",
+    "Kolicina": 340,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Туђе ципеле",
+    "podnaslov": null,
+    "Pisac": "Миломир Краговић",
+    "Kolicina": 400,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Мене воли један пас",
+    "podnaslov": null,
+    "Pisac": "Радмила Тодић",
+    "Kolicina": 10,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Алексине Песме",
+    "podnaslov": null,
+    "Pisac": "Љубивоје Ршумовић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Под маслачком",
+    "podnaslov": null,
+    "Pisac": "Вера Каћански",
+    "Kolicina": 200,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Школа доброг расположења",
+    "podnaslov": null,
+    "Pisac": "Весна Каћански",
+    "Kolicina": 155,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Родила година сина до сина",
+    "podnaslov": null,
+    "Pisac": "Милорад Радуновић",
+    "Kolicina": 270,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Песниково игралиште",
+    "podnaslov": null,
+    "Pisac": "Драган Лукић",
+    "Kolicina": 200,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Плава шума",
+    "podnaslov": null,
+    "Pisac": "Јово Кнежевић",
+    "Kolicina": 350,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Чаробна књига с тавана",
+    "podnaslov": null,
+    "Pisac": "Јово Кнежевић",
+    "Kolicina": 134,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "На трагу дудова",
+    "podnaslov": null,
+    "Pisac": "Ивон Ескула",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Дечак из Вила-Леске",
+    "podnaslov": null,
+    "Pisac": "Крстивоје Илић",
+    "Kolicina": 320,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Ветрови траже брата",
+    "podnaslov": null,
+    "Pisac": "Тодор Бјелкић",
+    "Kolicina": 120,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Соко за момчила",
+    "podnaslov": null,
+    "Pisac": "Тијана Мартиначки",
+    "Kolicina": 125,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Срећа магарећа",
+    "podnaslov": null,
+    "Pisac": "Благоје Рогач",
+    "Kolicina": 375,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Кифлице с маком",
+    "podnaslov": null,
+    "Pisac": "Раде Танасијевић",
+    "Kolicina": 40,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Дивљи голубови",
+    "podnaslov": null,
+    "Pisac": "Милорад Радуновић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Река мог детињства",
+    "podnaslov": null,
+    "Pisac": "Перо Солар",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Дивљак у мрачној шуми",
+    "podnaslov": null,
+    "Pisac": "Данило Николић",
+    "Kolicina": 205,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Моја бака",
+    "podnaslov": null,
+    "Pisac": "Драган Јацановић",
+    "Kolicina": 55,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Дечји песници у песми и слици",
+    "podnaslov": null,
+    "Pisac": "Оља Ивановић",
+    "Kolicina": 200,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Таван мога деде",
+    "podnaslov": null,
+    "Pisac": "Слободан Станишић",
+    "Kolicina": 200,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Дечки дечаци",
+    "podnaslov": null,
+    "Pisac": "Недељко Терзић",
+    "Kolicina": 130,
+    "Cena": 300.0,
+    "ISBN": "978-86-7564-432-3",
+    "Opis": "Дечија књига"
+  },
+  {
+    "Biblioteka": "Дечија књига Добрица",
+    "Naziv dela": "Дечак и сликар",
+    "podnaslov": null,
+    "Pisac": "Иван Глишић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-117-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Градина",
+    "Naziv dela": "Православни календар",
+    "podnaslov": null,
+    "Pisac": "Зорица Салијевић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Инстелови писци",
+    "Naziv dela": "Молитвеник сна",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 86,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "Збирка песама, укључује и"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Лучка Капетанија",
+    "podnaslov": null,
+    "Pisac": "Слободан Станишић",
+    "Kolicina": 8,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": "За децу, роман"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Приче са реке",
+    "podnaslov": null,
+    "Pisac": "Перо Солар",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Кључеви пустиње",
+    "podnaslov": null,
+    "Pisac": "Луи-Новел Лавол",
+    "Kolicina": 300,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Брз као ветар",
+    "podnaslov": null,
+    "Pisac": "Жин Виктор Леклерк",
+    "Kolicina": 160,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Гусари Меларског језера",
+    "podnaslov": null,
+    "Pisac": "Сигфрид Сиверц",
+    "Kolicina": 190,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Пустоловине немирних дечака",
+    "podnaslov": null,
+    "Pisac": "Слободан Увалић",
+    "Kolicina": 140,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-027-0",
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Излет",
+    "Naziv dela": "Вукови са Соколовог виса",
+    "podnaslov": null,
+    "Pisac": "Богдан Радуловић",
+    "Kolicina": 20,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Календар српског песништва",
+    "Naziv dela": "Песма тишине",
+    "podnaslov": null,
+    "Pisac": "Стеван Раичковић",
+    "Kolicina": 81,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Календар српског песништва",
+    "Naziv dela": "Морнар на коњу",
+    "podnaslov": null,
+    "Pisac": "Слободан Марковић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Календар српског песништва",
+    "Naziv dela": "87 песама",
+    "podnaslov": null,
+    "Pisac": "Миодраг Павловић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Календар српског песништва",
+    "Naziv dela": "Моја једина младост",
+    "podnaslov": null,
+    "Pisac": "Славко Вукосављевић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Календар српског песништва",
+    "Naziv dela": "Кад млидијах живети",
+    "podnaslov": null,
+    "Pisac": "Светислав Мандић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Књига о књизи",
+    "Naziv dela": "Тихи Дон Михаила Шолохова",
+    "podnaslov": null,
+    "Pisac": "Драган Недељковић",
+    "Kolicina": 70,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "(анализа романа)"
+  },
+  {
+    "Biblioteka": "Књига о књизи",
+    "Naziv dela": "Савремени приступ књижевној Критици",
+    "podnaslov": null,
+    "Pisac": "Милорад Радуновић",
+    "Kolicina": 200,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-000-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Књига о књизи",
+    "Naziv dela": "О Чехову",
+    "podnaslov": null,
+    "Pisac": "Корнеј Чуковски",
+    "Kolicina": 238,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Књига о књизи",
+    "Naziv dela": "Молитве Десанке Максимовић",
+    "podnaslov": null,
+    "Pisac": "Милош Зубац",
+    "Kolicina": 233,
+    "Cena": 500.0,
+    "ISBN": "978-86-7564-481-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Коприва",
+    "Naziv dela": "Болани Добрица",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "Поезија"
+  },
+  {
+    "Biblioteka": "Коприва",
+    "Naziv dela": "Нови Притисак",
+    "podnaslov": null,
+    "Pisac": "Добривоје Вујин",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-106-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Коприва",
+    "Naziv dela": "Паранормално",
+    "podnaslov": null,
+    "Pisac": "Мића М. Тумарић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-172-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Коприва",
+    "Naziv dela": "Лудесно",
+    "podnaslov": null,
+    "Pisac": "Мића М. Тумарић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-160-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Крст и мач",
+    "Naziv dela": "Цар Душан  - други део",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 600,
+    "Cena": 1500.0,
+    "ISBN": "978-86-6261-010-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Крст и мач",
+    "Naziv dela": "ЦАР Душан - први део",
+    "podnaslov": null,
+    "Pisac": "Никола Девура",
+    "Kolicina": 600,
+    "Cena": 1500.0,
+    "ISBN": "978-86-7564-562-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Крст и мач",
+    "Naziv dela": "Хаџи Ђера",
+    "podnaslov": null,
+    "Pisac": "Драгутин Ј. Илић",
+    "Kolicina": 300,
+    "Cena": 500.0,
+    "ISBN": "978-86-7564-226-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Крст и мач",
+    "Naziv dela": "Дневник 1941- 1945",
+    "podnaslov": null,
+    "Pisac": "Григорије-Глиша Бабовић",
+    "Kolicina": 600,
+    "Cena": 800.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Крст и мач",
+    "Naziv dela": "Хвостански записи",
+    "podnaslov": null,
+    "Pisac": "Десанка Остојић",
+    "Kolicina": 300,
+    "Cena": 500.0,
+    "ISBN": "978-86-6261-025-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Милица",
+    "Naziv dela": "Мој зоо врт",
+    "podnaslov": null,
+    "Pisac": "Гордана Јов Шарић",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Милица",
+    "Naziv dela": "Веверица Рујка",
+    "podnaslov": null,
+    "Pisac": "Једвига Вернерова",
+    "Kolicina": 220,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Милица",
+    "Naziv dela": "Оловчани лов",
+    "podnaslov": null,
+    "Pisac": "Тодор Бјелкић",
+    "Kolicina": 260,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Моја књига",
+    "Naziv dela": "Ветар је Аја",
+    "podnaslov": null,
+    "Pisac": "Весна Алексић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": "978-86-19-02193-1",
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Морнар на коњу",
+    "Naziv dela": "Шетач кроз време",
+    "podnaslov": null,
+    "Pisac": "Горан Гњидић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-093-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Морнар на коњу",
+    "Naziv dela": "Док ходаш у сну",
+    "podnaslov": null,
+    "Pisac": "Игор Садрија",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-095-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Морнар на коњу",
+    "Naziv dela": "Жеља за додиром",
+    "podnaslov": null,
+    "Pisac": "Мирјана Новокмет",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-025-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Морнар на коњу",
+    "Naziv dela": "Живи Живот",
+    "podnaslov": null,
+    "Pisac": "Слободан Васић",
+    "Kolicina": 150,
+    "Cena": 800.0,
+    "ISBN": "978-86-6261-116-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Морнар на коњу",
+    "Naziv dela": "Ехо непознатог сада",
+    "podnaslov": null,
+    "Pisac": "Марија Миловановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-6261-118-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Нај, нај, нај",
+    "Naziv dela": "Моји тренутци",
+    "podnaslov": null,
+    "Pisac": "Слободан Ракитић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "97886-7564-405-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Нај, нај, нај",
+    "Naziv dela": "Причест у житном пољу",
+    "podnaslov": null,
+    "Pisac": "Драгомир Брајковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-348-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Патологија женског гениталног система",
+    "podnaslov": null,
+    "Pisac": "Миомир Јањић",
+    "Kolicina": 800,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Патологија мушког гениталног система",
+    "podnaslov": null,
+    "Pisac": "Миомир Јањић",
+    "Kolicina": 800,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Аналитичка хемија",
+    "podnaslov": null,
+    "Pisac": "Душан Станојевић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Јувенилни идиопатски артритис",
+    "podnaslov": null,
+    "Pisac": "Милица Буир",
+    "Kolicina": 8,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Психоаналитички дискурс",
+    "podnaslov": null,
+    "Pisac": "Радоман Кордић",
+    "Kolicina": 500,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Sirmium",
+    "podnaslov": "Историја Римског града од I до краја VI века",
+    "Pisac": "Мирослава Мирковић",
+    "Kolicina": 0,
+    "Cena": 1500.0,
+    "ISBN": null,
+    "Opis": "археологија, историја"
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Доњи Срем",
+    "podnaslov": null,
+    "Pisac": "Душан Богданов Сенко",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Дрога и млади",
+    "podnaslov": null,
+    "Pisac": "Душанка Шолаја",
+    "Kolicina": 350,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Педагошки приручник",
+    "podnaslov": null,
+    "Pisac": "Душанка Шолаја",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Научна књига",
+    "Naziv dela": "Геодиверзитет и геонаслеђе Голије и Пештера",
+    "podnaslov": null,
+    "Pisac": "др Љиљана Грујичић-Тешић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": "978-86-6261-098-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Нови Вукови певачи",
+    "Naziv dela": "У благослову",
+    "podnaslov": null,
+    "Pisac": "Весна Милисављевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Срицање жене",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 100,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Лирски интермецо",
+    "podnaslov": null,
+    "Pisac": "Хајнрих Хајне",
+    "Kolicina": 360,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Градинар",
+    "podnaslov": null,
+    "Pisac": "Рабиндтанат Тагоре",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Певачеве Жртве",
+    "podnaslov": null,
+    "Pisac": "Рабиндранат Тагоре",
+    "Kolicina": 400,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Песма над песмама",
+    "podnaslov": null,
+    "Pisac": "Соломон",
+    "Kolicina": 400,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Молитве на језеру",
+    "podnaslov": null,
+    "Pisac": "Владика Николај",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Мостарске кише",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Ниси ти више мали",
+    "podnaslov": null,
+    "Pisac": "Матија Бећковић",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Ретки траже ретке",
+    "podnaslov": null,
+    "Pisac": "Давид",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-034-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Венац сонетних венаца",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 5,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Поклон за најдраже",
+    "Naziv dela": "Мостарске кише",
+    "podnaslov": null,
+    "Pisac": "Перо Зубац",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Црни Змај",
+    "podnaslov": "повест о Титу",
+    "Pisac": "Слободан Дамњановић",
+    "Kolicina": 600,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Бастард",
+    "podnaslov": "љубавна антибајка",
+    "Pisac": "Милорад Тодоровић",
+    "Kolicina": 500,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Ево човека",
+    "podnaslov": null,
+    "Pisac": "Милорад Тодоровић",
+    "Kolicina": 500,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Црвени Апостол",
+    "podnaslov": "Голооточка голгота",
+    "Pisac": "Милорад Тодоровић",
+    "Kolicina": 500,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Од Србије до Сибира",
+    "podnaslov": null,
+    "Pisac": "Милија Мицкић Горски",
+    "Kolicina": 5,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Среда није лош дан",
+    "podnaslov": null,
+    "Pisac": "Светлана Велимировић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-293-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Тражим огњиште",
+    "podnaslov": null,
+    "Pisac": "Секула Петровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-342-Х",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Видиш ли ти ово Виде",
+    "podnaslov": null,
+    "Pisac": "Видак Г. Петровић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-512-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Кактус, маказе и ситне наказе",
+    "podnaslov": null,
+    "Pisac": "Срђан Динчић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-439-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Препредени мачак Преле",
+    "podnaslov": null,
+    "Pisac": "Благоје Рогач",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-447-7",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Палчић у срцу",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-284-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Добошар од Беркасова",
+    "podnaslov": null,
+    "Pisac": "Дамјанка Чизмић, Недељко Терзић, Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-505-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Предели сећања",
+    "podnaslov": null,
+    "Pisac": "Зорка Кнежевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-437-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Посебна издања",
+    "Naziv dela": "Путешествије",
+    "podnaslov": null,
+    "Pisac": "Мићо Јелић Грновић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-458-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Путник на уранку",
+    "Naziv dela": "Људи говоре",
+    "podnaslov": null,
+    "Pisac": "Растко Петровић",
+    "Kolicina": 150,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Путник на уранку",
+    "Naziv dela": "Света Гора",
+    "podnaslov": null,
+    "Pisac": "Владимир Мајевски",
+    "Kolicina": 100,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Путник на уранку",
+    "Naziv dela": "Лелејске чесме Михаила Лалића",
+    "podnaslov": null,
+    "Pisac": "Милош Вулевић",
+    "Kolicina": 200,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Ружа ветрова",
+    "Naziv dela": "Колевка душе",
+    "podnaslov": null,
+    "Pisac": "Милена Јововић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Ружа ветрова",
+    "Naziv dela": "Птица на прозору",
+    "podnaslov": null,
+    "Pisac": "Анђелко Заблаћански",
+    "Kolicina": 5,
+    "Cena": 600.0,
+    "ISBN": "978-86-7564-426-2",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Ружа ветрова",
+    "Naziv dela": "Даљине мирисне дах",
+    "podnaslov": null,
+    "Pisac": "Наташа Џарић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-375-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Ружа ветрова",
+    "Naziv dela": "У ладовини погледа",
+    "podnaslov": null,
+    "Pisac": "Вера Цветановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-404-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Ружа ветрова",
+    "Naziv dela": "Окотруни сјај",
+    "podnaslov": null,
+    "Pisac": "Живомир М. Ивановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-571-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Ружа ветрова",
+    "Naziv dela": "Шеста руковет",
+    "podnaslov": null,
+    "Pisac": "Васа Михаиловић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-049-8",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Српско родољубиво песништво",
+    "Naziv dela": "Топот са Звечана",
+    "podnaslov": null,
+    "Pisac": "Милан Ивановић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-211-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Српско родољубиво песништво",
+    "Naziv dela": "Несажежен камен",
+    "podnaslov": null,
+    "Pisac": "Бранко Новаковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-454-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Уметност и уметници",
+    "Naziv dela": "Сунце јужног неба",
+    "podnaslov": null,
+    "Pisac": "Зоја Бојић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Маршал",
+    "podnaslov": null,
+    "Pisac": "Милић Дуњић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-093-5",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Уста постављена свилом",
+    "podnaslov": null,
+    "Pisac": "Зорица Арсић Мантарић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Обичне речи",
+    "podnaslov": null,
+    "Pisac": "Дајана Цветковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-115-Х",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Кућа од воска и босиока",
+    "podnaslov": null,
+    "Pisac": "Радослав И. Исаиловић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-098-6",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Јесеним пролећа",
+    "podnaslov": null,
+    "Pisac": "Александар југовић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-088-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Путници јутарњих аутобуса",
+    "podnaslov": null,
+    "Pisac": "Нада Комад",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Судбина",
+    "podnaslov": null,
+    "Pisac": "Слободан Здравковић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-261-Х",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Мислим на светлост а видим тебе",
+    "podnaslov": null,
+    "Pisac": "Ивана Аврамовић",
+    "Kolicina": 50,
+    "Cena": 300.0,
+    "ISBN": "978-86-7564-274-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Видокруг",
+    "Naziv dela": "Ждралин",
+    "podnaslov": null,
+    "Pisac": "Александар Савић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-064-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Вилино коло",
+    "Naziv dela": "Сан гружанске летње ноћи",
+    "podnaslov": null,
+    "Pisac": "Добрица Ерић",
+    "Kolicina": 260,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "Еротски роман"
+  },
+  {
+    "Biblioteka": "Завичај",
+    "Naziv dela": "Љубав на први додир",
+    "podnaslov": null,
+    "Pisac": "Ана Дудаш",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-407-1",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Завичај",
+    "Naziv dela": "Ми, међу собом",
+    "podnaslov": "трилогија",
+    "Pisac": "Касијана Милошевић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-480-4",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Завичај",
+    "Naziv dela": "Tragom svetlosti",
+    "podnaslov": null,
+    "Pisac": "Ana Dudaš, Damjanka Čizmić",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-303-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Завичај",
+    "Naziv dela": "Nebeska ljuljaška",
+    "podnaslov": null,
+    "Pisac": "Jovan D. Petrović, Dragica Šreder, Damjanka Čizmić, Zuzana Vereski, Ana M. Dudaš, Dragan Jacanović",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-225-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Жиг столећа",
+    "Naziv dela": "Арнаутлук у Загребу",
+    "podnaslov": null,
+    "Pisac": "Константин Брадваровић",
+    "Kolicina": 200,
+    "Cena": 200.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "Један кружић воска целом свету доста",
+    "podnaslov": null,
+    "Pisac": "Радул Марковић",
+    "Kolicina": 200,
+    "Cena": 300.0,
+    "ISBN": null,
+    "Opis": "За децу, народне питалице"
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "7777 народних пословица и изрека",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 10,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "11111 народних пословица и изрека",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "22222 народне пословице и изреке",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 118,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "4444 народне пословице (посвећено генералу Гвери)",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 136,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-030-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "Духовне бакље прошлости",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 18,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "Путокази (велике мисли)",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 19,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "Величина човека",
+    "podnaslov": "велике мисли",
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 5,
+    "Cena": 1000.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "3333 народне пословице и изреке",
+    "podnaslov": null,
+    "Pisac": "Драгослав Новичић",
+    "Kolicina": 55,
+    "Cena": 400.0,
+    "ISBN": "978-86-6261-112-3",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Златна јабука",
+    "Naziv dela": "Верси Дубровачки у Славу",
+    "podnaslov": null,
+    "Pisac": "Жарко Б. Вељковић",
+    "Kolicina": 5,
+    "Cena": 300.0,
+    "ISBN": "978-86-6261-113-0",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Преображења",
+    "Naziv dela": "Са извора најчистије воде",
+    "podnaslov": null,
+    "Pisac": "Жирабо - Биљана Раковић Живковић",
+    "Kolicina": 440,
+    "Cena": 400.0,
+    "ISBN": null,
+    "Opis": "За децу"
+  },
+  {
+    "Biblioteka": "Преображења",
+    "Naziv dela": "Зелени Двори",
+    "podnaslov": null,
+    "Pisac": "Вилијам Х. Хадсон",
+    "Kolicina": 600,
+    "Cena": 500.0,
+    "ISBN": null,
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Преображења",
+    "Naziv dela": "Гватемалске легенде",
+    "podnaslov": null,
+    "Pisac": "Мигел Анхел Астуријас",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-19-02205-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Завештања",
+    "Naziv dela": "Обмане и заблуде бранитеља страних ријечи",
+    "podnaslov": null,
+    "Pisac": "Миле Медић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": "978-86-7564-219-9",
+    "Opis": null
+  },
+  {
+    "Biblioteka": "Џепна књига",
+    "Naziv dela": "Улазак у свет",
+    "podnaslov": null,
+    "Pisac": "Данило Николић",
+    "Kolicina": 5,
+    "Cena": null,
+    "ISBN": null,
+    "Opis": null
+  }
+]
