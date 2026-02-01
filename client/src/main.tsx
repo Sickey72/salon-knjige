@@ -40,7 +40,9 @@ queryClient.getMutationCache().subscribe(event => {
 const trpcClient = trpc.createClient({
   links: [
     httpBatchLink({
-      url: "/api/trpc",
+      url: process.env.NODE_ENV === 'production' 
+        ? 'https://salon-knjige-backend.onrender.com/api/trpc'
+        : '/api/trpc',
       transformer: superjson,
       fetch(input, init) {
         return globalThis.fetch(input, {
