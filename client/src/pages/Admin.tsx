@@ -10,24 +10,27 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
+import { CldUploadWidget } from "next-cloudinary";
 
 export default function AdminPage() {
   const [selectedBook, setSelectedBook] = useState<any>(null);
   const [editData, setEditData] = useState<any>({});
-  const [imageFile, setImageFile] = useState<File | null>(null);
+  const [uploadedImageUrl, setUploadedImageUrl] = useState<string | null>(null);
 
   const booksQuery = trpc.books.getAll.useQuery();
   const books = booksQuery.data || [];
 
-  const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (file) {
-      setImageFile(file);
+  const handleImageUpload = (result: any) => {
+    if (result.event === "success") {
+      setUploadedImageUrl(result.info.secure_url);
+      setEditData({
+        ...editData,
+        coverImage: result.info.secure_url,
+      });
     }
   };
 
   const handleSave = async () => {
-    // Trebalo bi da kreiram API endpoint za update
     console.log("Saving:", editData);
     setSelectedBook(null);
   };
@@ -49,7 +52,9 @@ export default function AdminPage() {
                       title: book.title,
                       price: book.price,
                       description: book.description,
+                      coverImage: book.coverImage,
                     });
+                    setUploadedImageUrl(book.coverImage || null);
                   }}
                 >
                   <div className="aspect-square bg-gray-200 rounded mb-4 flex items-center justify-center">
@@ -124,21 +129,37 @@ export default function AdminPage() {
                     <label className="block text-sm font-medium mb-2">
                       Slika korica
                     </label>
-                    <input
-                      type="file"
-                      accept="image/*"
-                      onChange={handleImageUpload}
-                      className="block w-full"
-                    />
-                    {imageFile && (
-                      <p className="text-sm text-green-600 mt-2">
-                        ✓ Odabrana slika: {imageFile.name}
-                      </p>
+                    <CldUploadWidget
+                      uploadPreset="salon_knjige"
+                      onSuccess={handleImageUpload}
+                    >
+                      {({ open }) => (
+                        <Button
+                          type="button"
+                          variant="outline"
+                          onClick={() => open()}
+                          className="w-full"
+                        >
+                          Ucitaj sliku
+                        </Button>
+                      )}
+                    </CldUploadWidget>
+                    {uploadedImageUrl && (
+                      <div className="mt-4">
+                        <p className="text-sm text-green-600 mb-2">
+                          ✓ Slika ucitana
+                        </p>
+                        <img
+                          src={uploadedImageUrl}
+                          alt="Preview"
+                          className="w-full h-48 object-cover rounded"
+                        />
+                      </div>
                     )}
                   </div>
 
                   <div className="flex gap-2 justify-end">
-                    <Button variant="outline">Otkaži</Button>
+                    <Button variant="outline">Otkazi</Button>
                     <Button onClick={handleSave}>Spremi</Button>
                   </div>
                 </div>
