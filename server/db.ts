@@ -386,3 +386,126 @@ export async function importBooksFromExcel(booksData: any[]) {
     throw error;
   }
 }
+
+export async function importBooksFixed(booksData: any[]) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+
+  const authorsMap: Record<string, number> = {};
+  const editionsMap: Record<string, number> = {};
+  const errors: string[] = [];
+  let importedCount = 0;
+  let skippedCount = 0;
+
+  try {
+    // Prvo kreiram autore
+    for (const book of booksData) {
+      const authorName = book.pisac;
+      if (authorName && !authorsMap[authorName]) {
+        try {
+          const result = await db
+            .insert(authors)
+            .values({ fullName: authorName })
+            .onConflict((t) => ({
+              target: t.fullName,
+              do: db.update(authors).set({ fullName: authorName }),
+            }))
+            .returning({ id: authors.id });
+          
+          if (result && result.length > 0) {
+            authorsMap[authorName] = result[0].id;
+          }
+        } catch (e) {
+          console.error(`Error creating author ${authorName}:`, e);
+        }
+      }
+    }
+
+    // Kreiram edicije
+    for (const book of booksData) {
+      const editionName = book.biblioteka || "Slobodno izdanje";
+      if (editionName && !editionsMap[editionName]) {
+        try {
+          const result = await db
+            .insert(editions)
+            .values({ name: editionName })
+            .onConflict((t) => ({
+              target: t.name,
+              do: db.update(editions).set({ name: editionName }),
+            }))
+            .returning({ id: editions.id });
+          
+          if (result && result.length > 0) {
+            editionsMap[editionName] = result[0].id;
+          }
+        } catch (e) {
+          console.error(`Error creating edition ${editionName}:`, e);
+        }
+      }
+    }
+
+    // Insertam knjige
+    for (const book of booksData) {
+      try {
+        const title = book.naziv;
+        const authorName = book.pisac;
+        const editionName = book.biblioteka || "Slobodno izdanje";
+        const price = parseFloat(book.cena || 0);
+        const quantity = parseInt(book.kolicina || 0);
+        const description = book.opis || null;
+        const isbn = book.isbn || null;
+        const subtitle = book.podnaslov || null;
+        const isPublic = book.is_public !== false;
+
+        if (!title || !authorName) {
+          errors.push(`Skipped: Missing title or author`);
+          skippedCount++;
+          continue;
+        }
+
+        const authorId = authorsMap[authorName];
+        if (!authorId) {
+          errors.push(`Skipped: Author not found for ${title}`);
+          skippedCount++;
+          continue;
+        }
+
+        const editionId = editionsMap[editionName] || 1;
+
+        await db
+          .insert(books)
+          .values({
+            title,
+            subtitle,
+            authorId,
+            editionId,
+            price: isNaN(price) ? 0 : price,
+            quantity: isNaN(quantity) ? 0 : quantity,
+            description,
+            isbn,
+            isPublic,
+          })
+          .onConflict((t) => ({
+            target: [t.title, t.authorId],
+            do: db.update(books).set({
+              price: isNaN(price) ? 0 : price,
+              quantity: isNaN(quantity) ? 0 : quantity,
+              description,
+              isPublic,
+            }),
+          }));
+
+        importedCount++;
+      } catch (e) {
+        console.error(`Error importing book:`, e);
+        errors.push(`Error: ${String(e)}`);
+        skippedCount++;
+      }
+    }
+
+    return { importedCount, skippedCount, errors };
+  } catch (error) {
+    console.error("Import error:", error);
+    throw error;
+  }
+}

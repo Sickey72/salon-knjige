@@ -61,6 +61,25 @@ async function startServer() {
     }
   });
   
+  // Import endpoint sa ispravnom strukturom (bez autentifikacije za sada)
+  app.post("/api/import-books-fixed", async (req, res) => {
+    try {
+      const books = req.body;
+      
+      if (!Array.isArray(books)) {
+        return res.status(400).json({ error: "Books must be an array" });
+      }
+      
+      const { importBooksFixed } = await import("../db");
+      const result = await importBooksFixed(books);
+      
+      res.json(result);
+    } catch (error) {
+      console.error("Import error:", error);
+      res.status(500).json({ error: String(error) });
+    }
+  });
+  
   // tRPC API
   app.use(
     "/api/trpc",
