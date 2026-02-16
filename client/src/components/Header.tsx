@@ -30,7 +30,7 @@ export function Header() {
                 }}
               />
               <h1 className="text-3xl font-bold text-primary">
-                Салон књиге
+                // Салон књиге
               </h1>
             </div>
           </Link>
