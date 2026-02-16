@@ -16,27 +16,23 @@ export function Header() {
   return (
     <header className="bg-card border-b border-border sticky top-0 z-50 shadow-sm">
       <div className="container py-4">
-        <div className="flex items-center justify-between">
-          {/* Логотип и назив */}
+        {/* Први ред: Логотип (центриран и већи) */}
+        <div className="flex justify-center mb-4">
           <Link href="/">
-            <div className="flex items-center gap-4 cursor-pointer hover:opacity-80 transition-opacity">
+            <div className="cursor-pointer hover:opacity-80 transition-opacity">
               <img 
                 src="/logo.png" 
                 alt="Српска књига" 
-                className="h-12 w-auto"
-                onError={(e) => {
-                  // Ако EPS не ради, сакриј слику
-                  e.currentTarget.style.display = 'none';
-                }}
+                className="h-16 w-auto"
               />
-              <h1 className="text-3xl font-bold text-primary">
-                // Салон књиге
-              </h1>
             </div>
           </Link>
+        </div>
 
+        {/* Други ред: Навигација и контроле */}
+        <div className="flex items-center justify-between">
           {/* Навигација */}
-          <nav className="hidden md:flex items-center gap-6">
+          <nav className="flex items-center gap-6">
             <Link href="/">
               <a className="text-foreground hover:text-primary transition-colors font-medium">
                 {t.home}
@@ -95,3 +91,4 @@ export function Header() {
     </header>
   );
 }
+
