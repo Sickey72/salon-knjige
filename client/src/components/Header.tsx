@@ -21,7 +21,7 @@ export function Header() {
           <Link href="/">
             <div className="flex items-center gap-4 cursor-pointer hover:opacity-80 transition-opacity">
               <img 
-                src="/logo.eps" 
+                src="/logo.png" 
                 alt="Српска књига" 
                 className="h-12 w-auto"
                 onError={(e) => {
